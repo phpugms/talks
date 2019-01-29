@@ -20,6 +20,7 @@ We are happy to help!
 - [ ] No, thanks.
 
 ## Preferred date/time
+(You can find all our upcoming events here: https://www.meetup.com/phpugms/events/)
 
 - 
 
